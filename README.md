@@ -1,4 +1,5 @@
 # Stealth Boy
+![alt text](image.png)
 ## Table of Contents
 
 - [Overview](#overview)
